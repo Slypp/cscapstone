@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    color: white;
+}
+#bar{
+   padding: 10px 10px;
+   font-size: 15px;
+   background-color: lightpink;
+   border-style: solid;
+   border-color: white;
+   margin: 1px 20px ;
+   border-radius: 20px;
+}
+h3{
+    color: white;
+    font-family: monospace;
+
+}
+h5{
+    color: aliceblue;
+    font-family: monospace;
+}
+#rootc{
+    background-color: black;
+    color: white;
+    font-family: monospace;
+}
+#bout{
+    background-color: black;
+    color: white;
+    font-family: monospace;
+}
+#case{
+    background-color: black;
+    color: white;
+    font-family: monospace;
+}
+#int{
+    background-color: black;
+    color: white;
+    font-family: monospace;
+}
