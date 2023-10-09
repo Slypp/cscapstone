@@ -1,0 +1,53 @@
+#title{
+    text-align: center;
+    color: white;
+    font-family: monospace;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+button{
+    padding: 15px 30px;
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    background-color: black;
+    border-style: solid;
+    border-color: white;
+    margin: 4px 2px;
+    border-radius: 20px;
+}
+
+#dot{
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    background-color: white;
+    border-radius: 90%;
+    position: relative;
+}
+/* #square{
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    background-color: white;
+    border-radius: 10%;
+    position: relative;
+} */
+#square {
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    display: inline-block;
+}
+#col{
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    background-color: white;
+    border-radius: 10%;
+    position: relative;
+}
