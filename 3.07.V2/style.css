@@ -1,0 +1,93 @@
+#inx{
+    background-color: black;
+    color: white;
+}
+#bar{
+   padding: 10px 10px;
+   font-size: 10px;
+   border-bottom-style: solid;
+   border-top-style: solid;
+   border-color: white;
+   margin: 10 20px ;
+   border-radius: 0px;
+}
+h3{
+    color: white;
+    font-family: monospace;
+
+}
+#itemsNAV{
+    color: aliceblue;
+    font-family: monospace;
+}
+#rootc{
+    background-color: black;
+    color: white;
+    font-family: monospace;
+}
+#bout{
+    background-color: black;
+    color: white;
+    font-family: monospace;
+}
+#case{
+    background-color: black;
+    color: white;
+    font-family: monospace;
+}
+#int{
+    background-color: black;
+    color: white;
+    font-family: monospace;
+}
+#title{
+    border-bottom-style: solid;
+    border-bottom-color: antiquewhite;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-width: 4px;
+    padding-left: 40px;
+    padding-top: 40px;
+
+}
+
+#intro{
+    padding-left: 50px;
+    padding-top: 30px;
+}
+#personal{
+    padding-left: 40px;
+    padding-top: 20px;
+    background-color: black;
+    border-style: solid;
+    border-color: white;
+    border-radius: 20px;
+}
+
+#pfp{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+#column{
+    padding: 10px;
+    border-radius: 20px;
+    grid-template-columns: auto;
+    border-style: solid;
+    border-color: white;
+}
+#signUp{
+    border-color: rebeccapurple;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+#timing{
+    border-radius: 20px;
+    position: relative;
+    left: -100px;
+    padding-top: 10px;
+    top: 100px;
+}
